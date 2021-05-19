@@ -1,2 +1,2 @@
 # Circle-Oriented-Programming
- WWDC 2021 scholarship upgraded submition. Rudmentary particle simulator.
+ WWDC 2021 scholarship upgraded submission. Rudmentary particle simulator.
